@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Farmergamer2437/Hub3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Farmergamer2437/Hub3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1 style="text-align: center;"><span style="color: #ff6600;">Welcome to The Discord for Dee Tee Web Page</span></h1>
+<p style="text-align: center;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAdVBMVEVzidz///9xh9xqgtpuhdtogNprg9rW3PRogNvz9ftvhtz8/f6MnuJrgdr3+fzJ0fB6j965w+zQ1/KBleDp7Ph5jt6To+OZqOXj5/ems+ituemzvuuOn+Lu8fnDzO6+yO6hrubd4fWEmN9hetmClOCotefR2fG3x6jJAAAJLElEQVR4nO2daZuqOgyAsZugVBZBXIbNo/P/f+JFHRWwpUVHCXP7fjnLA9rGNE2TtLUsg8FgMBgMBoPBYDAYDAaDwWAwGAx/FYRQr6ff1hDgIIZttE/2+gI4FK7PbUbe2CiIzIiNknyazieTCOu+xMPJZLJYe8cDxf8bgSFMVnk0ubLSVS3/9ooTbmL6P5AXYigJF5Maa673JvMmjde2Mf/bJoxwN2tIqtKSUvNdFrbenEwTzN7a3CHBeBM1u7sOXIJ19YORfbBuSXoXa5u8UYFZ3lSNaiBh1scbQIhxf9uSl/cHxYWtrKkTQWy3xxAihDDG8IXqb4SRB2Ey2w+cxkeF/t8SF7PyRv/KhNYkVWkM48Ty98lmF2TZ9Acvy3fHwj1Ulq6pgYyupn9WuxDdNgZguL/bKYQpWRaBt3bmEwlzZx3mxR7RSs9un3hoKOo80LZ8sEHUbZj16fI65RNO/SJbS6XUklnkbZY3dxThuCEuJ7GH6+KvQayw3qn1j1YhRq3CaxofDRbfR59exiTiccPzmlpjH4sIF/URWP3+Z1ExvAxaXoQ+UeZWNuz0MXjZmBqP45bWDDXUKiOnQUT4C5K64OT7sz+K6KY+iMsxhyW4Wx9nqYtPqmYd1+2+P0O0Oy93iFWfGBcJHbrPz4K39d551dBBdO9p2nMNpl+n1bRd1P8vH+lQJJt6L6rfnPDkV5TqTrphzGJ+WpeW5rocGKRm2iMfM7JNH3r7MovAYjNct4z+0P1+Blxz2r8xR7t20OCXmOcxpcH939MRmi1k3dsf/CPBm0R1JrP+1QxXj0A1FPDdwd78275TVCdy2739fT0+1YpvjXeLd4vqxC6+uSlfY1Otm2I5uxcdUF2c7fWLyrGp1i278IYZUMbtq0amWjzr6tW7Kcfla6FPmCk5hzGpFtkNKquJNybVwh+0VEKGFkAPUDKwrCa78eSraTm0sJzxBJkPQ8tqMknGYuLxoH7DhdE4pmRYv+HCYWgp6DEr1F15P8E4akaGN+8n0nGMQ1/dk08wigUiG9h7v+KNIXWBPxSSUbEYgWah/dBSulLAlxYL1N34DCH8cTj4GvrGHLxmoeXQMroDfsnDcnUnPsU39HFIgcyFZ4D7pShWd+FzJLOh5dEJFI/0Qgg7uox/uUzmNRzgRmto+TRxIc+HBER05g7oOE2jUAoAoGtEcO9a7TcTDy0ROXAW0VcAL6bJVt38zwI4qIWn6uZ/lhSusGY90zpRGE57LI/SaRhGPSvDwZbjIlfd+FrXtzHFGNNYr4h5kfvnx62il9+7gZrH77XW2bGrD0SIRrzQQ7fH8Ub9+P09qJ5WD5M1d2vGBOEv1eDa1B0mFut7KPrHRnwYpm+yDs3RQRQ+R9LsMkL60gLqaSH9epCkPThYZ5HS7iF6oP9VQD0tctTtQPa4CqGe/HFBkQfW/y6Y45B19LfBQjhDycfwUqAc2hFZ3QNJPox2+3eiGUqeQhOmtPSLC0GWtSGm23xxsFcakBYHpWxdGw9yKw/60my9pEqdl+LHJeFO7Yq5LUS3VNsllbRetgqXrIW1lwsgy7y1A38ie23JNVO2YEGaXxdBDABS3by9ND8lflxWZ6VbJzCHOAx1f2lH1ngqdh5kLrh2Igmghde2IZFsaSsRlizIwnVXogU81dL236XxuJ6aJZs9H8jgBR60p3L5MBSHHmSapV1hCHBDHSs12z6RmRBJ4a7stEntTJIDT1hcO2oiSROjlfhxqVOp+30At4jF2sFx4dJQvjgMxX5Sj51n4JL4PeLvkjQxlbgCkuWOdowDYBye9AiMC+c3eX2lsNoR2fppnhyasPqURwrjcUw6m5aiIIt+pHEymUKL//UqCYkfdaUrJi2aD/tUVYBLWvA+2TzB2Tq0wx8X7Fmifep8F9CqJUmv+plju/u8M77jtQcil7gZEqClpXtuBWvltrDCD9g2hcuW/ZL4wHyH3sVG9awpspXWOq8f2or76RW4dFj/wwnCGF/OfkTY15gcruebng6U770vAVi15BNHhMy9L2TbFK00vctpElObMjfvvwMbWMHDkxvuozTtY33Sfo/fABZ3gFfGVkcabxwGWJsF2khDaMMAZ5ehEFiz4ez3zrV9B8BOxBhaHN2A8koh7V8VAcor1a5zGIgjJAuPxBucFp+3ZGKPFZQLLy3q+PR5R5n45wGVOpRWoq0+6n+lrkSVQcVK5audwwe382TSHR6g1jv4W9qD5fJTxwWvmDQACarsqKPuYO7aHzlwxSMdWwlAHabVGYF37eXbLVf6Zfsdge0FpCrc7iKNFbaLt25xnW9tvOyceCEJS5GP3mDCg/f5XNmM4W6vGFaJFu7edr/DiFkSH+hVTjf28e58eABpMqzA3XHlECOLx/nvi8vzGVJlEeHVK9PuOS+Kq5GAf/uKlPx0mRohZedDkjKcQbEVOYtzqpDZSXfPehBtzveFMbf7B/BsSCGHK1QhLe98lyOyD8EvhFWdbH++SRphhRf3kM0GgsLMTtLVZUCcLkh+SV6Ot8KXNCJXuXDQbPsdvFJYcO/n4nqE+cM1x7pEucvw7Cc/q8q3HsHKqtKZg0Jj5gX9sSCVvGarXPeO0augssL6uQjy9Akrhavb2IkND0RVqfjIpTeDixjG+6O31pgiF+tw+0VsdjfWfFkq3lkjaLVGbZp3WYoo97Q2PyGCuR1/bQKvjNJ2aHW+cNLSy48rn3JM6m9xdYFEAFqtLhBfaYymLm2tPxAiDPNKb/y967pJRfXn3o8R4xQz0pr8ET0oRZXuRyCrU1fU9Z7rxJbtjKshfoLYrrpYIGAQvSsRreuQhTg7QWWpBjN0VEcTy8Mo1OoH2y2VPZJuNOlE40SHKKFjUasLyFbmKp47GFN50HVa8HGJ6gTiq07tcp7sUnfBTlRw6P6CGMSXHVV9z16bgDpqfcOHaXZEIIw3EkV4ftHGJIHGaDcbma16gNj+ViCvV5JTtiDxFu2WI1aqGgTHRdhaxknOK9CkuT5ypscDH41fpQZhciiy+yLw+JIfRG6F8PPIOy4J/hM6VQfNMGXxapuHZfTqsfY4T8sw2yUHxh7WQn+IGcGMUvxqB7FNKzn9XTEZDAaDwWAwGAwGg8FgMBgMBoPBYDAYXuI/VaeK8iuRR2kAAAAASUVORK5CYII=" alt="Discord" width="300" height="168" /></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Here is the the discord&nbsp;<a href="https://discord.gg/f7pwYA">link for the server</a></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><a href="https://farmergamer2437.github.io/Hub2/">Click here</a>&nbsp;to get back to the index</p>
